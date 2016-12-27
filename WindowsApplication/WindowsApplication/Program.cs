@@ -12,6 +12,7 @@ namespace WindowsApplication
         /// The main entry point for the application.
         /// </summary>
         ///jp test
+        //again testing
         [STAThread]
         static void Main()
         {
