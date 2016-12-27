@@ -1,0 +1,1 @@
+C:\TestGit\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.exe.config
